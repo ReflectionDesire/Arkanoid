@@ -1,0 +1,11 @@
+# build tools
+build/
+package.json
+
+# frameworks
+src/frameworks/
+
+# osx shit
+.DS_Store
+src/.DS_Store
+assets/.DS_Store
